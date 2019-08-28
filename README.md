@@ -1,0 +1,1 @@
+1. Add new folders css/style.css; scss/style.scss;2. npm init;3. npm install node-sass;4.package.json add "scss": "node-sass --watch scss --o css";5. npm run scss/////////////////////////////////////6. npm install -g browser-sync7. browser-sync start --server --files="**/*"
